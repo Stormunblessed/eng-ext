@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nginx_info_title">Nginx là gì?</string>
+    <string name="nginx_info_summary">Nginx được dùng để hiển thị các tệp từ máy chủ mà bạn sở hữu. Chọn để xem hướng dẫn thiết lập Nginx</string>
+</resources>

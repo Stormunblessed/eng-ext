@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nginx_info_title">Apa itu Nginx ?</string>
+    <string name="nginx_info_summary">Nginx adalah sebuah software yang dapat digunakan untuk menampilkan file dari server yang anda miliki. Klik untuk melihat panduan pengaturan Nginx</string>
+</resources>
