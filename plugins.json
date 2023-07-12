@@ -362,7 +362,7 @@
         "version": 13,
         "internalName": "SflixProvider",
         "description": "Due to the video host changing encryption methods extremely often these extensions might not work perfectly. Also includes Dopebox, Solarmovie, Zoro, HDToday and 2embed",
-        "url": "https://raw.githubusercontent.com/Stormunblessed/eng-ext/builds/SflixProvider.cs3",
+        "url": "https://raw.githubusercontent.com/Rakeshyadav-19/eng-ext/builds/SflixProvider.cs3",
         "name": "SflixProvider"
     },
     {
