@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="nginx_info_title">O que é Nginx ?</string>
-    <string name="nginx_info_summary">Nginx é um software que pode ser usado para exibir arquivos de um servidor que você possui. Clique para ver um guia de configuração do Nginx</string>
-</resources>

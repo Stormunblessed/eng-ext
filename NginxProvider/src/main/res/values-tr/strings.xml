@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="nginx_info_title">Nginx nedir?</string>
-    <string name="nginx_info_summary">Nginx, sahip olduğunuz bir sunucudan dosyaları görüntülemek için kullanılabilecek bir yazılımdır. Nginx kurulum kılavuzunu görmek için tıklayın</string>
-</resources>
