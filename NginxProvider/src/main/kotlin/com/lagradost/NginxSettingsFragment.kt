@@ -17,6 +17,7 @@ import com.lagradost.cloudstream3.plugins.Plugin
 import com.lagradost.cloudstream3.ui.settings.SettingsAccount.Companion.showLoginInfo
 import com.lagradost.cloudstream3.ui.settings.SettingsAccount.Companion.addAccount
 import com.lagradost.cloudstream3.utils.UIHelper.colorFromAttribute
+import com.lagradost.nicehttp.BuildConfig
 
 
 class NginxSettingsFragment(private val plugin: Plugin, val nginxApi: NginxApi) :
