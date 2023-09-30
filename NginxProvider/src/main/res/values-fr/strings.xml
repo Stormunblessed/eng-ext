@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nginx_info_summary">Nginx est un logiciel utilisé pour afficher les fichier d\'un server que vous possèdez. Cliquez pour voir un guide de mise en place.</string>
+    <string name="nginx_url_pref">Addresse du serveur Nginx</string>
+</resources>
